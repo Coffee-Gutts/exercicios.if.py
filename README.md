@@ -1,2 +1,2 @@
-# exerc-cios.py
+# exercicios.py
 exercícios da matéria escolar 
